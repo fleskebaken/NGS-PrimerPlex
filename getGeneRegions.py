@@ -412,7 +412,7 @@ if refDir[-1]!=os.path.sep:
 
 # Read input file
 print('Reading input file and getting chromosome numbers...')
-targetGenes=[]
+targetGenes=[ACVR1]
 chrs={}
 codons={}
 exons={}
